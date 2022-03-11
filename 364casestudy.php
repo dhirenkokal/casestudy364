@@ -1,4 +1,4 @@
 <?php
-echo"<title>Output of Cloud Computing Case Study</title>
+echo"Output of Cloud Computing Case Study
 364-Dhiren Kokal"
   ?>
